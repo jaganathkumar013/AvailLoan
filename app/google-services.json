@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "870866596330",
+    "firebase_url": "https://avail-loans.firebaseio.com",
+    "project_id": "avail-loans",
+    "storage_bucket": "avail-loans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870866596330:android:9954ad11c15e73d3",
+        "android_client_info": {
+          "package_name": "com.cybertrisquad.availloans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870866596330-tkpmvasvpjrp24sqc6ja2h76leql5arj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cybertrisquad.availloans",
+            "certificate_hash": "f1c0915fafd323145fc79a5f8e9f5b7c510dece7"
+          }
+        },
+        {
+          "client_id": "870866596330-9dl5g7lvmnvmg9qf46a6rpa76ccealnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cybertrisquad.availloans",
+            "certificate_hash": "970fdd9ee629f117ec9c2b4523347bacae6e2f56"
+          }
+        },
+        {
+          "client_id": "870866596330-9odv4ab9mkbds9biv639tun6rne7lo9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZWHIvt0V2bOM7DsY-WGWtLvN9FzG1nnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870866596330-9odv4ab9mkbds9biv639tun6rne7lo9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
